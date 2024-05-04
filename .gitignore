@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+site/
+*.pyc
+__pycache__/
+.pytest_cache/
+.vscode/
+*~

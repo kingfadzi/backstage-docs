@@ -1,0 +1,29 @@
+site_name: 'Backstage Integration Documentation'
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Onboarding Tools:
+    - Overview: onboarding_tools.md
+    - TechDocs: onboarding_tools/techdocs.md
+    - Unified Tool Access: onboarding_tools/unified_access.md
+    - Scaffolder: onboarding_tools/scaffolder.md
+  - Build Tools:
+    - Overview: build_tools.md
+    - GitLab Integration: build_tools/gitlab_integration.md
+    - SonarQube Integration: build_tools/sonarqube_integration.md
+  - Deployment Tools:
+    - Overview: deployment_tools.md
+    - GitLab for Deployment: deployment_tools/gitlab_deployment.md
+  - Operational Tools:
+    - Overview: operational_tools.md
+    - Security Tools:
+      - SonarQube: operational_tools/security_tools/sonarqube.md
+      - HashiCorp Vault: operational_tools/security_tools/hashicorp_vault.md
+    - Log and Event Monitoring: operational_tools/elk_stack.md
+    - Kubernetes Monitoring: operational_tools/kubernetes_monitoring.md
+  - Advanced Topics: advanced_topics.md
+  - FAQs: faqs.md
+  - Appendix and Resources: appendix.md
