@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-integration-docs
+  description: "Documentation for the Backstage integrations and plugins used to enhance developer workflows."
+  tags:
+    - documentation
+    - techdocs
+  annotations:
+    backstage.io/techdocs-ref: dir:./
+spec:
+  type: documentation
+  lifecycle: production
+  owner: team-name  # Replace 'team-name' with the name of your team responsible for maintaining this documentation

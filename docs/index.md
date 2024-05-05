@@ -8,7 +8,7 @@ The Inner Loop focuses on activities that allow developers to build, test, and d
 
 #### 1. Onboard - "Help me get started quickly and efficiently."
 - **Access Comprehensive Documentation**: Utilize TechDocs to find all necessary project documentation.
-- **Unified Tool Access and Training**: Onboard onto platforms like Openshift, Vault, ELK, and more for seamless development workflows.
+- **Unified Tool Access**: Onboard onto platforms like Openshift, Vault, ELK, and more for seamless development workflows.
 - **Setup Development Environment**: Automate the creation of development environments using the Scaffolder plugin.
 
 #### 2. Build - "Enable me to contribute effectively and securely."
